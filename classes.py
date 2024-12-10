@@ -171,4 +171,3 @@ class ShotAnalyzer():
         # We're gonna display the plot
         plt.show()
 
-

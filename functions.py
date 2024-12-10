@@ -144,5 +144,3 @@ def shot_distribution(df, column1, column2, hue_column, palette, alpha):
     plt.show()
 
 
-
-
